@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" android:baselineAligned="false">
+
+    <fragment
+        android:id="@+id/Samplelist_fragment"
+        android:name="com.matrixy.fragments.uifragments.SampleListFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="45" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/SampleView_fragment"
+        android:name="com.matrixy.fragments.uifragments.SampleViewerFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="55" >
+    </fragment>
+
+</LinearLayout>

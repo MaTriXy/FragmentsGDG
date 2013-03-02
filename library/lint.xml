@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="MissingPrefix">
+        <ignore path="res\drawable\abs__search_dropdown_dark.xml" />
+        <ignore path="res\drawable\abs__search_dropdown_light.xml" />
+    </issue>
+    <issue id="MissingRegistered">
+        <ignore path="res\layout-large\abs__action_mode_close_item.xml" />
+        <ignore path="res\layout-xlarge\abs__screen_action_bar_overlay.xml" />
+        <ignore path="res\layout\abs__action_menu_item_layout.xml" />
+        <ignore path="res\layout\abs__action_menu_layout.xml" />
+        <ignore path="res\layout\abs__activity_chooser_view.xml" />
+        <ignore path="res\layout\abs__dialog_title_holo.xml" />
+        <ignore path="res\layout\abs__popup_menu_item_layout.xml" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="res\layout\abs__search_view.xml" />
+        <ignore path="res\values\abs__styles.xml" />
+        <ignore path="res\values\abs__themes.xml" />
+    </issue>
+</lint>
