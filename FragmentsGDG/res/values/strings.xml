@@ -2,7 +2,46 @@
 <resources>
 
     <string name="app_name">Fragments?</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="viewer_label">Sample Viewer fragment</string>
+    <string name="action_settings">Load New Url</string>
+
+    <string-array name="items_titles">
+        <item>Slicing</item>
+        <item>Best of GDG</item>
+        <item>Create Controls</item>
+        <item>Export Me</item>
+        <item>Android Tablets are coming</item>
+        <item>Build Someting</item>
+        <item>Create application on App Engine</item>
+        <item>Android Box</item>
+        <item>Builders</item>
+        <item>Designers</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+        <item>Do Not Click</item>
+    </string-array>
+    <string-array name="items_links">
+        <item>http://en.wikipedia.org/wiki/Slicing</item>
+        <item>https://developers.google.com/groups/</item>
+        <item>https://github.com/enyojs/enyo/wiki/Creating-Controls</item>
+        <item>http://instaport.me/</item>
+        <item>http://www.digitaltrends.com/mobile/best-upcoming-tablets/</item>
+        <item>http://www.instructables.com/</item>
+        <item>https://appengine.google.com/</item>
+        <item>https://www.box.com/services/box_for_android</item>
+        <item>http://www.builders.co.za/</item>
+        <item>http://en.wikipedia.org/wiki/Designer</item>
+    </string-array>
 
 </resources>
