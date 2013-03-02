@@ -3,11 +3,15 @@ FragmentsGDG
 
 This is a sample project made for GDG conference Showing Fragment usage.
 
+Here we have a simple list fragment showing items.
+upon click a new Fragement will load the url associated with the item.
+Also showing a simple Dialog fragment to load a new url interaction.
+ 
+
 The application is using an open source project named: 
 ActionBarSherlock Developed By Jake Wharton See http://actionbarsherlock.com for more information.
 
 License
-
 Copyright 2013 Yossi Elkrief
 
 Licensed under the Apache License, Version 2.0 (the "License");
